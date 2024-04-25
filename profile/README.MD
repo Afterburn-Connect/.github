@@ -4,25 +4,85 @@
 
 ---
 
-![Rust](https://img.shields.io/badge/-Rust-222831?style=for-the-badge&logoColor=white&logo=rust&color=222831)
-![Svelte](https://img.shields.io/badge/-Svelte-222831?style=for-the-badge&logoColor=white&logo=svelte&color=222831)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-222831?style=for-the-badge&logoColor=white&logo=tailwindcss&color=222831)
-![Tauri](https://img.shields.io/badge/-Tauri-222831?style=for-the-badge&logoColor=white&logo=tauri&color=222831)
+![Rust](https://img.shields.io/badge/-Rust-7029f3?style=for-the-badge&logoColor=white&logo=rust&color=7029f3)
+![Svelte](https://img.shields.io/badge/-Svelte-9435a7?style=for-the-badge&logoColor=white&logo=svelte&color=9435a7)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-c13a78?style=for-the-badge&logoColor=white&logo=tailwindcss&color=c13a781)
+![Tauri](https://img.shields.io/badge/-Tauri-f63c63?style=for-the-badge&logoColor=white&logo=tauri&color=f63c63)
+![Python](https://img.shields.io/badge/-Python-fb7641?style=for-the-badge&logoColor=white&logo=python&color=fb7641)
 
 Welcome to Afterburn, a dev focused chat platform.
 
 ## Table of Contents
 1.  [What is Afterburn?](#description)
-2.  [Features](#features)
-4.  [Credits](#credits)
-5.  [License](#license)
+2.  [Inspiration](#inspiration)
+3.  [Features](#features)
+4.  [Goals](#goals)
+5.  [Sources](#sources)
+6.  [Credits](#credits)
+7.  [License](#license)
 
 ## <a name="description"> What is Afterburn? </a>
-Our goal for Afterburn is to develop a chat application with features tailored to developers' workflow. This includes features like the whiteboard, a writing space where developers and programmers can collaborate, plan and write code.
+
+Afterburn is a chat application with features tailored to developers' workflow. This includes things like the whiteboard, a writing space where developers and programmers can collaborate, plan and write code.
+
+There are lots of things we want Afterburn to be able to be.
+
+A Post-Coding Hangout
+Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!
+
+A Decompression Zone
+Not just where you can work on projects, but also where you can go after you complete that long, probably stressful coding session. A space to unwind.
+
+A Refueling Station
+Also a place to recharge and get inspired before diving back in. ⚡️
+
+Going Beyond Just Code
+We hope to be able to have Afterburn be part of a bigger picture - be a place where devs can share resources or collaborate on new ideas.
+
+Late-Night Brainstorms
+A place to spend those late-night coding sessions where the real magic happens. The app becomes a space to capture those ideas and keep the momentum going.
 
 You can see our project overview document [here](https://github.com/Afterburn-Connect/.github/blob/main/assets/afterburn-project-overview.pdf").
 
+## <a name="inspiration"> What Inspired Debate? </a>
+
+When naming "Afterburn" we had a few things in mind. We wanted energetic, creativie and relaxed vibe.
+
+The Afterburn logo's flame represents that spark that ignites new ideas as well as the collective energy and inspiration that comes from collaboration within the community.
+
+When deciding what kind of project we wanted to work on there were a lot of options, but the idea of Afterburn was our favourite. We were excited about how it could streamline workflow, reduce project roadblocks, spark creativity, foster community, help team cohesion and give a more direct way of sharing knowledge and working together.
+
+
 ## <a name="features"> Features </a>
+
+- Messaging: Text, Images, Code Blocks
+- Longer messages/less limiting charaters
+- The Whiteboard: Collaborative code writing space
+- Live Syntax highlighting 
+- Easy extensions 
+- Integrations with github, etc plus automatic git push or pull or update
+- Code review requests
+- Sending folders
+- Registering system, accounts
+- Stuff like rich code embed 
+- Information about the files (image dimensions - file information, etc) 
+- Sending folders 
+- No separate dev settings 
+- Unique id instead of unique usernames
+- IDE integration: VS Code or other IDE extensions 
+- If you send a link to a git repo it will give you extra controls
+    e.g. auto clone straight from the app, plus git pull/push from the message 
+- User can put in their own css settings or choose the default
+
+## <a name="goals"> What are our Future Goals? </a>
+
+While we are currently focused on implementing the main features listed above, we are always thinking about what we want to add to Afterburn in the future!
+
+- Voice Chat
+- Video Chat
+- Bots
+
+## <a name="sources"> Sources? </a>
 
 ## <a name="credits"> Credits </a>
 
