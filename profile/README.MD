@@ -6,7 +6,7 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-7029f3?style=for-the-badge&logoColor=white&logo=rust&color=7029f3)
 ![Svelte](https://img.shields.io/badge/-Svelte-9435a7?style=for-the-badge&logoColor=white&logo=svelte&color=9435a7)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-c13a78?style=for-the-badge&logoColor=white&logo=tailwindcss&color=c13a781)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-c13a78?style=for-the-badge&logoColor=white&logo=tailwindcss&color=c13a78)
 ![Tauri](https://img.shields.io/badge/-Tauri-f63c63?style=for-the-badge&logoColor=white&logo=tauri&color=f63c63)
 ![Python](https://img.shields.io/badge/-Python-fb7641?style=for-the-badge&logoColor=white&logo=python&color=fb7641)
 
