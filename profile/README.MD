@@ -23,9 +23,7 @@ Welcome to Afterburn, a dev focused chat platform.
 
 ## <a name="description"> What is Afterburn? </a>
 
-Afterburn is a chat application with features tailored to developers' workflow. This includes things like the whiteboard, a writing space where developers and programmers can collaborate, plan and write code.
-
-There are lots of things we want Afterburn to be able to be.
+Afterburn is primarily a chat application with features tailored to developers' workflow. This includes things like the whiteboard, a writing space where developers and programmers can collaborate, plan and write code. But there are lots of other things we want Afterburn to be.
 
 A Post-Coding Hangout<br>
 Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!<br><br>
@@ -38,7 +36,7 @@ We hope to be able to have Afterburn be part of a bigger picture - be a place wh
 Late-Night Brainstorms<br>
 A place to spend those late-night coding sessions where the real magic happens. The app becomes a space to capture those ideas and keep the momentum going.<br><br>
 
-## <a name="inspiration"> What Inspired Debate? </a>
+## <a name="inspiration"> What Inspired Afterburn? </a>
 
 When naming "Afterburn" we had a few things in mind. We wanted energetic, creativie and relaxed vibe.
 
