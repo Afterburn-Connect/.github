@@ -27,22 +27,16 @@ Afterburn is a chat application with features tailored to developers' workflow. 
 
 There are lots of things we want Afterburn to be able to be.
 
-A Post-Coding Hangout
-Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!
-
-A Decompression Zone
-Not just where you can work on projects, but also where you can go after you complete that long, probably stressful coding session. A space to unwind.
-
-A Refueling Station
-Also a place to recharge and get inspired before diving back in.
-
-Going Beyond Just Code
-We hope to be able to have Afterburn be part of a bigger picture - be a place where devs can share resources or collaborate on new ideas.
-
-Late-Night Brainstorms
-A place to spend those late-night coding sessions where the real magic happens. The app becomes a space to capture those ideas and keep the momentum going.
-
-You can see our project overview document [here](https://github.com/Afterburn-Connect/.github/blob/main/assets/afterburn-project-overview.pdf").
+A Post-Coding Hangout<br>
+Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!<br><br>
+A Decompression Zone<br>
+Not just where you can work on projects, but also where you can go after you complete that long, probably stressful coding session. A space to unwind.<br><br>
+A Refueling Station<br>
+Also a place to recharge and get inspired before diving back in.<br><br>
+Going Beyond Just Code<br>
+We hope to be able to have Afterburn be part of a bigger picture - be a place where devs can share resources or collaborate on new ideas.<br><br>
+Late-Night Brainstorms<br>
+A place to spend those late-night coding sessions where the real magic happens. The app becomes a space to capture those ideas and keep the momentum going.<br><br>
 
 ## <a name="inspiration"> What Inspired Debate? </a>
 
@@ -52,6 +46,7 @@ The Afterburn logo's flame represents that spark that ignites new ideas as well 
 
 When deciding what kind of project we wanted to work on there were a lot of options, but the idea of Afterburn was our favourite. We were excited about how it could streamline workflow, reduce project roadblocks, spark creativity, foster community, help team cohesion and give a more direct way of sharing knowledge and working together.
 
+You can see our project overview document [here](https://github.com/Afterburn-Connect/.github/blob/main/assets/afterburn-project-overview.pdf").
 
 ## <a name="features"> Features </a>
 
