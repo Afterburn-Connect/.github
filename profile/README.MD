@@ -14,7 +14,6 @@ Welcome to Afterburn, a dev focused chat platform.
 ## Table of Contents
 1.  [What is Afterburn?](#description)
 2.  [Features](#features)
-3.  [How to Install and Run](#installation)
 4.  [Credits](#credits)
 5.  [License](#license)
 6.  [Contributors](#contributors)
@@ -26,10 +25,6 @@ You can see our project overview document <a href="frontend/public.Debate_Projec
 
 
 ## <a name="features"> Features </a>
-
-## <a name="installation"> How to Install and Run </a>
-To install this project, you will need to have on your machine: <br>
-![PNPM](https://img.shields.io/badge/-pnpm-black?style=for-the-badge&logoColor=white&logo=pnpm&color=B76507)
 
 ## <a name="credits"> Credits </a>
 
