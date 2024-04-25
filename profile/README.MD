@@ -17,7 +17,7 @@ Welcome to Afterburn, a dev focused chat platform.
 4.  [Credits](#credits)
 5.  [License](#license)
 
-## <a name="description"> What is Debate? </a>
+## <a name="description"> What is Afterburn? </a>
 Our goal for Afterburn is to develop a chat application with features tailored to developers' workflow. This includes features like the whiteboard, a writing space where developers and programmers can collaborate, plan and write code.
 
 You can see our project overview document [here](https://github.com/Afterburn-Connect/.github/blob/main/assets/afterburn-project-overview.pdf").
