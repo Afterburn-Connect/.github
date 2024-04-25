@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Afterburn-Connect/.github/blob/main/assets/afterburn-readme-colour.png?raw=true" width="auto" alt="afterburn-connect"/>
+  <img src="https://github.com/Afterburn-Connect/.github/blob/main/assets/afterburn-header.png?raw=true" width="auto" alt="afterburn-connect"/>
 </p>
 
 ---
