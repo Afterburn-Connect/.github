@@ -16,7 +16,6 @@ Welcome to Afterburn, a dev focused chat platform.
 2.  [Features](#features)
 4.  [Credits](#credits)
 5.  [License](#license)
-6.  [Contributors](#contributors)
 
 ## <a name="description"> What is Debate? </a>
 Our goal for Afterburn is to develop a chat application with features tailored to developers' workflow. This includes features like the whiteboard, a writing space where developers and programmers can collaborate, plan and write code.
@@ -29,6 +28,3 @@ You can see our project overview document [here](https://github.com/Afterburn-Co
 
 ## <a name="license"> License </a>
 This project is licensed under the [GNU Affero General Public License](https://opensource.org/license/agpl-v3).
-
-## <a name="contributors"> Contributors </a>
-There are no contributors just yet, if you want to contribute to this project, please read the [**contribution guide**](link to a CONTRIBUTING.md)
