@@ -70,7 +70,7 @@ When deciding what kind of project we wanted to work on there were a lot of opti
 - No separate dev settings 
 - Unique id instead of unique usernames
 - IDE integration: VS Code or other IDE extensions 
-- If you send a link to a git repo it will give you extra controls
+- If you send a link to a git repo it will give you extra controls <br>
     e.g. auto clone straight from the app, plus git pull/push from the message 
 - User can put in their own css settings or choose the default
 
