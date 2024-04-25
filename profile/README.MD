@@ -34,7 +34,7 @@ A Decompression Zone
 Not just where you can work on projects, but also where you can go after you complete that long, probably stressful coding session. A space to unwind.
 
 A Refueling Station
-Also a place to recharge and get inspired before diving back in. ⚡️
+Also a place to recharge and get inspired before diving back in.
 
 Going Beyond Just Code
 We hope to be able to have Afterburn be part of a bigger picture - be a place where devs can share resources or collaborate on new ideas.
