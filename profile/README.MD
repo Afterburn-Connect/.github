@@ -26,19 +26,19 @@ Welcome to Afterburn, a chat application with features tailored to developers' w
 ### While Afterburn is primarily a chat platform, there are lots of other things we want Afterburn to be.
 
 **A Post-Coding Hangout** <br>
-Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!<br><br>
+Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!<br>
 
 **A Decompression Zone** <br>
-Not just where you can work on projects, but also where you can go after you complete that long, probably stressful coding session. A space to unwind.<br><br>
+Not just where you can work on projects, but also where you can go after you complete that long, probably stressful coding session. A space to unwind.<br>
 
 **A Refueling Station** <br>
-Also a place to recharge and get inspired before diving back in.<br><br>
+Also a place to recharge and get inspired before diving back in.<br>
 
 **Going Beyond Just Code** <br>
-We hope to be able to have Afterburn be part of a bigger picture - be a place where devs can share resources or collaborate on new ideas.<br><br>
+We hope to be able to have Afterburn be part of a bigger picture - be a place where devs can share resources or collaborate on new ideas.<br>
 
 **Late-Night Brainstorms** <br>
-A place to spend those late-night coding sessions where the real magic happens. The app becomes a space to capture those ideas and keep the momentum going.<br><br>
+A place to spend those late-night coding sessions where the real magic happens. The app becomes a space to capture those ideas and keep the momentum going.<br>
 
 # <a name="inspiration"> What Inspired Afterburn? </a>
 
@@ -53,46 +53,46 @@ You can see our project overview document [here](https://github.com/Afterburn-Co
 # <a name="features"> What Features Does Afterburn Have? </a>
 
 **Collaborative Code Editing:**<br>
-Work on code together in real-time with our intuitive whiteboard.<br><br>
+Work on code together in real-time with our intuitive whiteboard.<br>
 
 **Rich Messaging:** <br>
-Share text, images, and formatted code snippets with ease.<br><br>
+Share text, images, and formatted code snippets with ease.<br>
 
 **Longer Messages:** <br>
-Removing difficulties of short character limits.<br><br>
+Removing difficulties of short character limits.<br>
 
 **Seamless Git Integration:** <br>
-Clone repositories, pull changes, and push commits directly within Afterburn.<br><br>
+Clone repositories, pull changes, and push commits directly within Afterburn.<br>
 
 **Integrated File Sharing:** <br>
-Send and receive files of any size with ease.<br><br>
+Send and receive files of any size with ease.<br>
 
 **Customizable Interface:** <br>
-Tailor Afterburn to your preferences with custom CSS themes.<br><br>
+Tailor Afterburn to your preferences with custom CSS themes.<br>
 
 **Live Syntax Highlighting:** <br>
-See your code formatted beautifully in real-time.<br><br>
+See your code formatted beautifully in real-time.<br>
 
 **Easy Extensions:** <br>
-Extend Afterburn's functionality with custom plugins and integrations.<br><br>
+Extend Afterburn's functionality with custom plugins and integrations.<br>
 
 **Code Review Requests:** <br>
-Streamline your development workflow with integrated code review requests.<br><br>
+Streamline your development workflow with integrated code review requests.<br>
 
 **Send Entire Folders:** <br>
-Share entire folders of code and assets seamlessly.<br><br>
+Share entire folders of code and assets seamlessly.<br>
 
 **Streamlined Registration:**<br>
-Sign up quickly and easily.<br><br>
+Sign up quickly and easily.<br>
 
 **Rich Code Embedding:** <br>
-Embed code snippets directly into messages for clear and concise communication.<br><br>
-**Detailed File Information:** <br>View comprehensive file information, including image dimensions and other metadata.<br><br>
+Embed code snippets directly into messages for clear and concise communication.<br>
+**Detailed File Information:** <br>View comprehensive file information, including image dimensions and other metadata.<br>
 
-**No Separate Developer Settings:** <br>Eliminate the need for complex developer configurations – Afterburn is ready to use out of the box.<br><br>
+**No Separate Developer Settings:** <br>Eliminate the need for complex developer configurations – Afterburn is ready to use out of the box.<br>
 
 **Unique User IDs:**<br>
-...<br><br>
+...<br>
 
 **IDE Integration:**<br>
 Enhance your coding experience with seamless integration for VS Code and other popular IDEs.
