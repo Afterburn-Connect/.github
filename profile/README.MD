@@ -25,6 +25,8 @@ Welcome to Afterburn, a dev focused chat platform.
 
 Afterburn is primarily a chat application with features tailored to developers' workflow. This includes things like the whiteboard, a writing space where developers and programmers can collaborate, plan and write code. But there are lots of other things we want Afterburn to be.
 
+
+
 A Post-Coding Hangout<br>
 Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!<br><br>
 A Decompression Zone<br>
@@ -48,32 +50,29 @@ You can see our project overview document [here](https://github.com/Afterburn-Co
 
 ## <a name="features"> Features </a>
 
-- Messaging: Text, Images, Code Blocks
-- Longer messages/less limiting charaters
-- The Whiteboard: Collaborative code writing space
-- Live Syntax highlighting 
-- Easy extensions 
-- Integrations with github, etc plus automatic git push or pull or update
-- Code review requests
-- Sending folders
-- Registering system, accounts
-- Stuff like rich code embed 
-- Information about the files (image dimensions - file information, etc) 
-- Sending folders 
-- No separate dev settings 
-- Unique id instead of unique usernames
-- IDE integration: VS Code or other IDE extensions 
-- If you send a link to a git repo it will give you extra controls <br>
-    e.g. auto clone straight from the app, plus git pull/push from the message 
-- User can put in their own css settings or choose the default
+Collaborative Code Editing: Work on code together in real-time with our intuitive whiteboard.
+Rich Messaging: Share text, images, and formatted code snippets with ease.
+Longer Messages: Removing difficulties of short character limits
+Seamless Git Integration: Clone repositories, pull changes, and push commits directly within Afterburn.
+Integrated File Sharing: Send and receive files of any size with ease.
+Customizable Interface: Tailor Afterburn to your preferences with custom CSS themes.
+Live Syntax Highlighting: See your code formatted beautifully in real-time.
+Easy Extensions: Extend Afterburn's functionality with custom plugins and integrations.
+Code Review Requests: Streamline your development workflow with integrated code review requests.
+Send Entire Folders: Share entire folders of code and assets seamlessly.
+Streamlined Registration: Sign up quickly and easily.
+Rich Code Embedding: Embed code snippets directly into messages for clear and concise communication.
+Detailed File Information: View comprehensive file information, including image dimensions and other metadata.
+No Separate Developer Settings: Eliminate the need for complex developer configurations – Afterburn is ready to use out of the box.
+Unique User IDs: 
+IDE Integration: Enhance your coding experience with seamless integration for VS Code and other popular IDEs.
 
 ## <a name="goals"> What are our Future Goals? </a>
 
 While we are currently focused on implementing the main features listed above, we are always thinking about what we want to add to Afterburn in the future!
 
-- Voice Chat
-- Video Chat
-- Bots
+- Integrate voice and video chat for richer communication.
+- Develop helpful bots to automate tasks and enhance the user experience.
 
 ## <a name="sources"> Sources? </a>
 
