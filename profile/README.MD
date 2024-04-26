@@ -14,16 +14,16 @@ Welcome to Afterburn, a chat application with features tailored to developers' w
 
 ## Table of Contents
 1.  [What is Afterburn?](#description)
-2.  [Inspiration](#inspiration)
-3.  [Features](#features)
-4.  [Goals](#goals)
+2.  [What Inspired Afterburn?](#inspiration)
+3.  [What Features Does Afterburn Have?](#features)
+4.  [What are our Future Goals?](#goals)
 5.  [Sources](#sources)
 6.  [Credits](#credits)
 7.  [License](#license)
 
 # <a name="description"> What is Afterburn? </a>
 
-### Afterburn is primarily a dev focused chat platform, there are lots of other things we want Afterburn to be.
+### While Afterburn is primarily a dev focused chat platform, there are lots of other things we want Afterburn to be.
 
 **A Post-Coding Hangout** <br>Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!<br><br>
 **A Decompression Zone** <br>Not just where you can work on projects, but also where you can go after you complete that long, probably stressful coding session. A space to unwind.<br><br>
@@ -41,7 +41,7 @@ When deciding what kind of project we wanted to work on there were a lot of opti
 
 You can see our project overview document [here](https://github.com/Afterburn-Connect/.github/blob/main/assets/afterburn-project-overview.pdf").
 
-# <a name="features"> Features </a>
+# <a name="features"> What Features Does Afterburn Have? </a>
 
 **Collaborative Code Editing:** Work on code together in real-time with our intuitive whiteboard.<br><br>
 **Rich Messaging:** Share text, images, and formatted code snippets with ease.<br><br>
