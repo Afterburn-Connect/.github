@@ -51,34 +51,20 @@ You can see our project overview document [here](https://github.com/Afterburn-Co
 
 **Collaborative Code Editing:** Work on code together in real-time with our intuitive whiteboard.<br><br>
 **Rich Messaging:** Share text, images, and formatted code snippets with ease.<br><br>
-**Longer Messages:**<br>
-Removing difficulties of short character limits.<br><br>
-**Seamless Git Integration:**<br>
-Clone repositories, pull changes, and push commits directly within Afterburn.<br><br>
-**Integrated File Sharing:**<br>
-Send and receive files of any size with ease.<br><br>
-**Customizable Interface:**<br>
-Tailor Afterburn to your preferences with custom CSS themes.<br><br>
-**Live Syntax Highlighting:**<br>
-See your code formatted beautifully in real-time.<br><br>
-**Easy Extensions:**<br>
-Extend Afterburn's functionality with custom plugins and integrations.<br><br>
-**Code Review Requests:** <br>
-Streamline your development workflow with integrated code review requests.<br><br>
-**Send Entire Folders:** <br>
-Share entire folders of code and assets seamlessly.<br><br>
-**Streamlined Registration:** <br>
-Sign up quickly and easily.<br><br>
-**Rich Code Embedding:** <br>
-Embed code snippets directly into messages for clear and concise communication.<br><br>
-**Detailed File Information:** <br>
-View comprehensive file information, including image dimensions and other metadata.<br><br>
-**No Separate Developer Settings:**<br>
-Eliminate the need for complex developer configurations – Afterburn is ready to use out of the box.<br><br>
-**Unique User IDs:**<br>
-...<br><br>
-**IDE Integration:**<br>
-Enhance your coding experience with seamless integration for VS Code and other popular IDEs.
+**Longer Messages:** Removing difficulties of short character limits.<br><br>
+**Seamless Git Integration:** Clone repositories, pull changes, and push commits directly within Afterburn.<br><br>
+**Integrated File Sharing:** Send and receive files of any size with ease.<br><br>
+**Customizable Interface:** Tailor Afterburn to your preferences with custom CSS themes.<br><br>
+**Live Syntax Highlighting:** See your code formatted beautifully in real-time.<br><br>
+**Easy Extensions:** Extend Afterburn's functionality with custom plugins and integrations.<br><br>
+**Code Review Requests:** Streamline your development workflow with integrated code review requests.<br><br>
+**Send Entire Folders:** Share entire folders of code and assets seamlessly.<br><br>
+**Streamlined Registration:** Sign up quickly and easily.<br><br>
+**Rich Code Embedding:** Embed code snippets directly into messages for clear and concise communication.<br><br>
+**Detailed File Information:** View comprehensive file information, including image dimensions and other metadata.<br><br>
+**No Separate Developer Settings:** Eliminate the need for complex developer configurations – Afterburn is ready to use out of the box.<br><br>
+**Unique User IDs:** ...<br><br>
+**IDE Integration:** Enhance your coding experience with seamless integration for VS Code and other popular IDEs.
 
 # <a name="goals"> What are our Future Goals? </a>
 
