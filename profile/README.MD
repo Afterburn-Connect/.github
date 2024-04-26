@@ -26,11 +26,11 @@ Welcome to Afterburn, a dev focused chat platform.
 Afterburn is primarily a chat application with features tailored to developers' workflow. This includes things like the whiteboard, a writing space where developers and programmers can collaborate, plan and write code. But there are lots of other things we want Afterburn to be.
 
 
-**A Post-Coding Hangout:** Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!<br><br>
-**A Decompression Zone:** Not just where you can work on projects, but also where you can go after you complete that long, probably stressful coding session. A space to unwind.<br><br>
-**A Refueling Station:** Also a place to recharge and get inspired before diving back in.<br><br>
-**Going Beyond Just Code:** We hope to be able to have Afterburn be part of a bigger picture - be a place where devs can share resources or collaborate on new ideas.<br><br>
-**Late-Night Brainstorms:** A place to spend those late-night coding sessions where the real magic happens. The app becomes a space to capture those ideas and keep the momentum going.<br><br>
+**A Post-Coding Hangout** <br>Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!<br><br>
+**A Decompression Zone** <br>Not just where you can work on projects, but also where you can go after you complete that long, probably stressful coding session. A space to unwind.<br><br>
+**A Refueling Station** <br>Also a place to recharge and get inspired before diving back in.<br><br>
+**Going Beyond Just Code** <br>We hope to be able to have Afterburn be part of a bigger picture - be a place where devs can share resources or collaborate on new ideas.<br><br>
+**Late-Night Brainstorms** <br>A place to spend those late-night coding sessions where the real magic happens. The app becomes a space to capture those ideas and keep the momentum going.<br><br>
 
 # <a name="inspiration"> What Inspired Afterburn? </a>
 
