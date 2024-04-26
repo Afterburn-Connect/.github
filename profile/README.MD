@@ -21,7 +21,7 @@ Welcome to Afterburn, a dev focused chat platform.
 6.  [Credits](#credits)
 7.  [License](#license)
 
-## <a name="description"> What is Afterburn? </a>
+# <a name="description"> What is Afterburn? </a>
 
 Afterburn is primarily a chat application with features tailored to developers' workflow. This includes things like the whiteboard, a writing space where developers and programmers can collaborate, plan and write code. But there are lots of other things we want Afterburn to be.
 
@@ -37,7 +37,7 @@ We hope to be able to have Afterburn be part of a bigger picture - be a place wh
 ### Late-Night Brainstorms
 A place to spend those late-night coding sessions where the real magic happens. The app becomes a space to capture those ideas and keep the momentum going.<br><br>
 
-## <a name="inspiration"> What Inspired Afterburn? </a>
+# <a name="inspiration"> What Inspired Afterburn? </a>
 
 When naming "Afterburn" we had a few things in mind. We wanted energetic, creativie and relaxed vibe.
 
@@ -47,7 +47,7 @@ When deciding what kind of project we wanted to work on there were a lot of opti
 
 You can see our project overview document [here](https://github.com/Afterburn-Connect/.github/blob/main/assets/afterburn-project-overview.pdf").
 
-## <a name="features"> Features </a>
+# <a name="features"> Features </a>
 
 **Collaborative Code Editing:**<br>
 Work on code together in real-time with our intuitive whiteboard.<br><br>
@@ -82,16 +82,16 @@ Eliminate the need for complex developer configurations – Afterburn is ready t
 **IDE Integration:**<br>
 Enhance your coding experience with seamless integration for VS Code and other popular IDEs.
 
-## <a name="goals"> What are our Future Goals? </a>
+# <a name="goals"> What are our Future Goals? </a>
 
 While we are currently focused on implementing the main features listed above, we are always thinking about what we want to add to Afterburn in the future!
 
 - Integrate voice and video chat for richer communication.
 - Develop helpful bots to automate tasks and enhance the user experience.
 
-## <a name="sources"> Sources? </a>
+# <a name="sources"> Sources? </a>
 
-## <a name="credits"> Credits </a>
+# <a name="credits"> Credits </a>
 
-## <a name="license"> License </a>
+# <a name="license"> License </a>
 This project is licensed under the [GNU Affero General Public License](https://opensource.org/license/agpl-v3).
