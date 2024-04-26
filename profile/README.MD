@@ -6,9 +6,9 @@
 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-7029f3?style=for-the-badge&logoColor=white&logo=tailwindcss&color=7029f3)
 ![Tauri](https://img.shields.io/badge/-Tauri-9435a7?style=for-the-badge&logoColor=white&logo=tauri&color=9435a7)
-![Rust](https://img.shields.io/badge/-Rust-c13a78?style=for-the-badge&logoColor=white&logo=rust&color=c13a78)
+![Python](https://img.shields.io/badge/-Python-c13a78?style=for-the-badge&logoColor=white&logo=python&color=c13a78)
 ![Svelte](https://img.shields.io/badge/-Svelte-f63c63?style=for-the-badge&logoColor=white&logo=svelte&color=f63c63)
-![Python](https://img.shields.io/badge/-Python-fb7641?style=for-the-badge&logoColor=white&logo=python&color=fb7641)
+![Rust](https://img.shields.io/badge/-Rust-fb7641?style=for-the-badge&logoColor=white&logo=rust&color=fb7641)
 
 Welcome to Afterburn, a dev focused chat platform.
 
@@ -21,6 +21,12 @@ Welcome to Afterburn, a dev focused chat platform.
 6.  [Credits](#credits)
 7.  [License](#license)
 
+```diff
+! ## <a name="description"> What is Afterburn? </a>
+```
+```diff
+! <a name="description"> What is Afterburn? </a>
+```
 ## <a name="description"> What is Afterburn? </a>
 
 Afterburn is primarily a chat application with features tailored to developers' workflow. This includes things like the whiteboard, a writing space where developers and programmers can collaborate, plan and write code. But there are lots of other things we want Afterburn to be.
