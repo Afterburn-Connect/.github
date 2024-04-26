@@ -26,15 +26,15 @@ Welcome to Afterburn, a dev focused chat platform.
 Afterburn is primarily a chat application with features tailored to developers' workflow. This includes things like the whiteboard, a writing space where developers and programmers can collaborate, plan and write code. But there are lots of other things we want Afterburn to be.
 
 
-#### A Post-Coding Hangout
+### A Post-Coding Hangout
 Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!<br><br>
-#### A Decompression Zone
+### A Decompression Zone
 Not just where you can work on projects, but also where you can go after you complete that long, probably stressful coding session. A space to unwind.<br><br>
-#### A Refueling Station
+### A Refueling Station
 Also a place to recharge and get inspired before diving back in.<br><br>
-#### Going Beyond Just Code
+### Going Beyond Just Code
 We hope to be able to have Afterburn be part of a bigger picture - be a place where devs can share resources or collaborate on new ideas.<br><br>
-#### Late-Night Brainstorms
+### Late-Night Brainstorms
 A place to spend those late-night coding sessions where the real magic happens. The app becomes a space to capture those ideas and keep the momentum going.<br><br>
 
 # <a name="inspiration"> What Inspired Afterburn? </a>
@@ -49,10 +49,8 @@ You can see our project overview document [here](https://github.com/Afterburn-Co
 
 # <a name="features"> Features </a>
 
-**Collaborative Code Editing:**<br>
-Work on code together in real-time with our intuitive whiteboard.<br><br>
-**Rich Messaging:**<br>
-Share text, images, and formatted code snippets with ease.<br><br>
+**Collaborative Code Editing:** Work on code together in real-time with our intuitive whiteboard.<br><br>
+**Rich Messaging:** Share text, images, and formatted code snippets with ease.<br><br>
 **Longer Messages:**<br>
 Removing difficulties of short character limits.<br><br>
 **Seamless Git Integration:**<br>
