@@ -87,9 +87,12 @@ Sign up quickly and easily.<br>
 
 **Rich Code Embedding:** <br>
 Embed code snippets directly into messages for clear and concise communication.<br>
-**Detailed File Information:** <br>View comprehensive file information, including image dimensions and other metadata.<br>
 
-**No Separate Developer Settings:** <br>Eliminate the need for complex developer configurations – Afterburn is ready to use out of the box.<br>
+**Detailed File Information:** <br>
+View comprehensive file information, including image dimensions and other metadata.<br>
+
+**No Separate Developer Settings:** <br>
+Eliminate the need for complex developer configurations – Afterburn is ready to use out of the box.<br>
 
 **Unique User IDs:**<br>
 ...<br>
