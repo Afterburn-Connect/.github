@@ -27,6 +27,10 @@ Afterburn is primarily a chat application with features tailored to developers' 
 
 
 $\Huge Hello!$
+<span style="color:red;">HTML</span>
+<span style="color:orange;">$\Huge Hello!$</span>
+
+
 A Post-Coding Hangout<br>
 Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!<br><br>
 A Decompression Zone<br>
