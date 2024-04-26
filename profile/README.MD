@@ -10,7 +10,7 @@
 ![Svelte](https://img.shields.io/badge/-Svelte-f63c63?style=for-the-badge&logoColor=white&logo=svelte&color=f63c63)
 ![Rust](https://img.shields.io/badge/-Rust-fb7641?style=for-the-badge&logoColor=white&logo=rust&color=fb7641)
 
-Welcome to Afterburn, a dev focused chat platform.
+Welcome to Afterburn, a chat application with features tailored to developers' workflow.
 
 ## Table of Contents
 1.  [What is Afterburn?](#description)
@@ -23,8 +23,7 @@ Welcome to Afterburn, a dev focused chat platform.
 
 # <a name="description"> What is Afterburn? </a>
 
-Afterburn is primarily a chat application with features tailored to developers' workflow. This includes things like the whiteboard, a writing space where developers and programmers can collaborate, plan and write code. But there are lots of other things we want Afterburn to be.
-
+### Afterburn is primarily a dev focused chat platform, there are lots of other things we want Afterburn to be.
 
 **A Post-Coding Hangout** <br>Imagine the app as a virtual after-work hangout for developers. Where you can relax, chat about non-code stuff, or even have friendly coding challenges!<br><br>
 **A Decompression Zone** <br>Not just where you can work on projects, but also where you can go after you complete that long, probably stressful coding session. A space to unwind.<br><br>
